@@ -1,7 +1,7 @@
 # Perudo
 
 ## Rules
-### The goal  of perudo is to be the last player with a die or more. 
+### The goal  of perudo is to be the last player with a dice or more. 
 
 Perudo is played in rounds. Each player receives a cup and five dice. 
 Each round begins by all players rolling their dice around in the cup. 
