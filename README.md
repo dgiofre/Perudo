@@ -17,8 +17,8 @@ they say Dudo, which means I doubt in Spanish.
 http://www.perudo.com/perudo-rules.html
 
 ====
-
 Here we have a simulator written in Mathematica that predicts the comming out probability of the various bets, 
 and recommends the best bet by interfering with the data coming out in your hand.
 This script also includes the Parker variant that allows the 1 value of the dice to act as a wildcard 
 in the dice count for the player who made the call. 
+====
