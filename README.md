@@ -25,11 +25,9 @@ in the dice count for the player who made the call.
 
 ### Prerequisites
 
-System requirements:
-(http://www.wolfram.com/mathematica/system-requirements.html)
+[System requirements](http://www.wolfram.com/mathematica/system-requirements.html)
 
-Installing Mathematica:
-(http://reference.wolfram.com/language/tutorial/InstallingMathematica.html)
+[Installing Mathematica](http://reference.wolfram.com/language/tutorial/InstallingMathematica.html)
 
 
 ### Running
