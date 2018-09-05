@@ -37,5 +37,4 @@ mathematica perudo-game.nb
 ```
 
 ## License
-
-This project is under open-source license
+[MIT licence](https://choosealicense.com/licenses/mit/)
